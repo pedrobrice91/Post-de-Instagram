@@ -1,0 +1,75 @@
+body {
+    background: black;
+}
+
+.div-feed {
+    background: white;
+    width: 400px;
+    height: 517px;
+    margin: auto;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+}
+
+.div-head {
+    display: flex;
+}
+
+.p-head {
+    margin: 0;
+}
+
+.fa-brands {
+    font-size: 30px;
+    margin: 15px 6px;
+}
+
+.fa-ellipsis-vertical {
+    font-size: 30px;
+    margin: 15px 6px;
+}
+
+.p-head {
+    margin-top: 12px;
+    margin-right: 253px;
+}
+
+.fa-heart {
+    margin-top: 11px;
+    margin-right: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-size: 34px;
+}
+
+.fa-comment {
+    margin-top: 11px;
+    font-size: 34px;
+}
+
+.fa-paper-plane {
+    margin-top: 11px;
+    margin-left: 6px;
+    font-size: 34px;
+}
+
+.fa-bookmark {
+    margin-top: 11px;
+    margin-left: 234px;
+    font-size: 34px;
+}
+
+.text-footer {
+    margin-top: 0px;
+    font-size: 12px;
+    text-align: left;
+    margin-left: 11px;
+    margin-right: 18px;
+    text-align: justify;
+}
+.icon{
+    display: flex;
+}
